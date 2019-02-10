@@ -1,4 +1,4 @@
-package com.joom.yetanotherapplication
+package com.joom.yetanotherapp
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
