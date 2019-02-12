@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YetAnotherApplication</string>
+    <string name="hello_username">Hello %1$s!</string>
 </resources>
