@@ -9,7 +9,7 @@
 можно получить через `Injector` в `LoginActivity`.
 
 Перед выполнением запроса желательно проверить валидность введенных полей:
-* Email адрес (должен быть валидный)[https://developer.android.com/reference/android/util/Patterns.html#EMAIL_ADDRESS]
+* Email адрес [должен быть валидный](https://developer.android.com/reference/android/util/Patterns.html#EMAIL_ADDRESS)
 * Длина пароля > 5 символов
 
 После выполнения авторизации необходимо открыть `SuccessActivity` через `Intent`, созданный с помощью `SuccessActivity.createIntent(user)`.
